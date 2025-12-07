@@ -18,7 +18,7 @@ const timeline = [
   {
     title: "Software Engineer Intern",
     company: "StoneX Group Inc.",
-    period: "Jan 2024 – July 202",
+    period: "Jan 2024 – July 2024",
     description:
       "Joined as an intern and contributed to key product features while collaborating with global teams.",
   },
