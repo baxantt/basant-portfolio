@@ -2,18 +2,25 @@ import { motion } from "framer-motion";
 
 const timeline = [
   {
-    title: "Software Engineer Intern",
+    title: "Engineer ll",
     company: "StoneX Group Inc.",
-    period: "Jan 2023 – Dec 2023",
+    period: "Dec 2025 – Present",
     description:
-      "Joined as an intern and contributed to key product features while collaborating with global teams.",
+      "Promoted to Engineer ll and started leading a sub-team to deliver critical features for the platform.",
   },
   {
-    title: "Engineer 1",
+    title: "Engineer l",
     company: "StoneX Group Inc.",
-    period: "Jan 2024 – Present",
+    period: "July 2024 – Dec 2025",
     description:
       "Promoted to Engineer 1 for consistent performance, delivering high-impact features and improvements.",
+  },
+  {
+    title: "Software Engineer Intern",
+    company: "StoneX Group Inc.",
+    period: "Jan 2024 – July 202",
+    description:
+      "Joined as an intern and contributed to key product features while collaborating with global teams.",
   },
 ];
 

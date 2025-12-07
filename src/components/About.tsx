@@ -32,7 +32,7 @@ export default function About() {
 
         <p className="mb-6">
           My expertise spans{" "}
-          <span className="text-pink-400 font-semibold">React, TypeScript, Fastify, Node.js, Java, and microservices</span>, 
+          <span className="text-pink-400 font-semibold">React, TypeScript, Fastify, Node.js, Fastify, Docker, Kubernetes and microservices</span>, 
           and I enjoy bridging frontend and backend with seamless integrations.
         </p>
 
