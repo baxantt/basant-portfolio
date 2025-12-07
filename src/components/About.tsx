@@ -25,7 +25,7 @@ export default function About() {
       >
         <p className="mb-6">
           I'm a <span className="text-pink-400 font-semibold">full-stack developer</span> 
-          passionate about building scalable, high-performance applications with clean 
+           passionate about building scalable, high-performance applications with clean 
           architecture and smooth user experiences. I love creating elegant UI components 
           and designing systems that feel fast, intuitive, and reliable.
         </p>
